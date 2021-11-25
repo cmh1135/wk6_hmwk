@@ -22,4 +22,5 @@ called by selecting columns from specific tables.
 
 
 
+<img width="892" alt="Screenshot 2021-11-24 234013" src="https://user-images.githubusercontent.com/89499253/143390442-3287d15d-e4f8-4440-b148-47d94e85e692.png">
 
